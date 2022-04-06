@@ -1,6 +1,7 @@
 What is a device driver
 =========================
 
+
 A device driver (often referred to as driver’) is a piece of software that controls a particular type of device which is connected to the computer system
 
 A device driver has three sides:
